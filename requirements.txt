@@ -1,0 +1,5 @@
+cryptography
+python-multipart
+uvicorn
+fastapi
+jinja2
